@@ -1,0 +1,4 @@
+C:\Users\Eclipse\Documents\Workspace\NMIT\2021\DAT602\DAT602-Frank-Project\DAT602 - Frank Project App\obj\Debug\DAT602 - Frank Project App.csprojAssemblyReference.cache
+C:\Users\Eclipse\Documents\Workspace\NMIT\2021\DAT602\DAT602-Frank-Project\DAT602 - Frank Project App\obj\Debug\DAT602___Frank_Project_App.Properties.Resources.resources
+C:\Users\Eclipse\Documents\Workspace\NMIT\2021\DAT602\DAT602-Frank-Project\DAT602 - Frank Project App\obj\Debug\DAT602 - Frank Project App.csproj.GenerateResource.cache
+C:\Users\Eclipse\Documents\Workspace\NMIT\2021\DAT602\DAT602-Frank-Project\DAT602 - Frank Project App\obj\Debug\DAT602 - Frank Project App.csproj.CoreCompileInputs.cache
