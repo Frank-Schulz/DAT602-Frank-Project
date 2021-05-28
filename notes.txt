@@ -1,1 +1,0 @@
-remove tail by checking for snake part that is not head and has only 1 nearby snaketile
