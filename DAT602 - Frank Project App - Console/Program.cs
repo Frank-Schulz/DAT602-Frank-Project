@@ -86,9 +86,7 @@ namespace DAT602___Frank_Project_App___Console
             // Testing Get All Players
             Console.WriteLine("\nTesting Get All Users");
             Console.WriteLine("===============================================");
-
             int gap = 20;
-
             Console.WriteLine("Username" + (new String(' ', gap - 8)) + "Password" + (new String(' ', gap - 8)) + "Email");
             Console.WriteLine();
             foreach (var p in _test.getAllUsers())
